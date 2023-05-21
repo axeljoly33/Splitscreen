@@ -1,0 +1,11 @@
+mod = [
+	"Splitscreen"
+]
+
+package = [
+	"resource_packages/Splitscreen/Splitscreen"
+]
+
+lua = [
+	"scripts/mods/Splitscreen/*"
+]
